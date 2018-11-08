@@ -51,5 +51,3 @@ A tool of mount ISO image file for Deepin OS user
   
 
 点“弹出”后原来新增加的盘就会消失，注意要弹出前不能还在该盘里操作
- 
->>>>>>> cf35057956b6c3fcc04a68402a1fe98f1cd59f71
